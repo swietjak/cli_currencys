@@ -9,4 +9,3 @@ const check = {
 };
 
 module.exports = check;
-//27f4785422cc8054b1f85b44625219d2
