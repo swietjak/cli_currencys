@@ -16,6 +16,6 @@
     "commander": "^5.0.0",
     "configstore": "^5.0.1",
     "inquirer": "^7.1.0",
-    "lodash": ">=4.17.19"
+    "lodash": ">=4.17.21"
   }
 }
